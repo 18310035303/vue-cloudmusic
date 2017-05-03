@@ -1,12 +1,30 @@
-# vue-cloudmusic
-网易云音乐PC客户端版本，用vue开发。	
-    计划实现功能
-* 播放
-* 上一首
-* 下一首
-* 搜索音乐
-* 发现音乐主界面
-* 歌单播放
-* 音乐播放界面
-* 歌词滚动
-* 播放音乐进度控制
+# cloud-music
+
+> A Vue.js project
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+
+# run unit tests
+npm run unit
+
+# run e2e tests
+npm run e2e
+
+# run all tests
+npm test
+```
+
+For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
