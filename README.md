@@ -15,6 +15,9 @@ npm run dev
 
 如果启动服务出现问题，试着去修改config文件夹下index里面的端口号
 
+## 项目截图
+![预览gif](https://raw.githubusercontent.com/yurentle/vue-cloudmusic/master/screenshot/screenshot1.gif)  ![预览gif](https://raw.githubusercontent.com/yurentle/vue-cloudmusic/master/screenshot/screenshot2.gif)  ![预览gif](https://raw.githubusercontent.com/yurentle/vue-cloudmusic/master/screenshot/screenshot3.gif)  ![预览gif](https://raw.githubusercontent.com/yurentle/vue-cloudmusic/master/screenshot/screenshot4.gif) ![预览gif](https://raw.githubusercontent.com/yurentle/vue-cloudmusic/master/screenshot/screenshot5.gif) 
+
 ## 技术依赖
 vue + vue-cli + vue-router
 vue-slider-component  进度条组件
