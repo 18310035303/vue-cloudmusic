@@ -1,7 +1,7 @@
 <template>
 	<div class="top">
         <div class="logo">
-            <a href=""></a>
+            <span></span>
         </div>
         <div class="move-btn">
             <button class="prev" @click="$router.go(-1)"><i class="ion-chevron-left"></i></button>
@@ -99,7 +99,7 @@ export default {
     float: left;
 }
 
-.logo a {
+.logo span {
     display: inline-block;
     height: 50px;
     width: 177px;
